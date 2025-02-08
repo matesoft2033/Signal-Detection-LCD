@@ -5,7 +5,7 @@ An Arduino-powered **security alert system** that uses an **Adafruit LCD display
 ## 📸 Circuit Diagram  
 Here’s the circuit setup for this project:  
 
-![Circuit Diagram](circuit_image.png)
+![Circuit Diagram](circuit_img.png)
 
 ## 🔧 Features  
 ✅ **Real-time status display** using `Adafruit_LiquidCrystal`  
