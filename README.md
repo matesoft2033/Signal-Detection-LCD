@@ -18,7 +18,7 @@ Here’s the circuit setup for this project:
 - **Adafruit LCD Display**  
 - **LED** (for alert system)  
 - **Resistors & jumper wires**  
-- **Signal sensor (e.g., IR sensor, motion detector, etc.)**  
+- **PIR sensor**  
 
 ## 🚀 How It Works  
 1. **Connect the Circuit**: Follow the diagram above.  
